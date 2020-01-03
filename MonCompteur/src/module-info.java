@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author awous
+ *
+ */
+module compteur {
+}
